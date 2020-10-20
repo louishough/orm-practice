@@ -1,0 +1,16 @@
+{
+  "name": "practice-orm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "models.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.5.3",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
+  }
+}
